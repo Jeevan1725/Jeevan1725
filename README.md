@@ -129,6 +129,22 @@ target    weakness    impact      clearly      door
 
 ---
 
+## Philosophy
+
+<div align="center">
+
+*Talent is god-given, be humble.*<br/>
+*Fame is man-given, be thankful.*<br/>
+*Concentration is self-given, be very, very careful.*<br/>
+<br/>
+**Motivation is temporary. Discipline is permanent.**<br/>
+<br/>
+*Nobody is perfect in this game. You have to keep learning and move forward.*
+
+</div>
+
+---
+
 ## Contact
 
 I welcome research collaborations, CTF team invitations, and technical discussions on security.
