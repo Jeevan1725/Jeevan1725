@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b132b,50:1c2541,100:0b132b&amp;height=230&amp;section=header&amp;text=R%20Jeevan&amp;fontSize=62&amp;fontColor=00ff41&amp;fontAlignY=38&amp;desc=Cybersecurity%20Student%20%26%20Security%20Researcher&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" width="100%" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=30&amp;duration=3000&amp;pause=1200&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=R+Jeevan;Cybersecurity+Student+and+Security+Researcher" alt="R Jeevan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=B.Tech+CSE+(Cyber+Security)+%7C+Amrita+Vishwa+Vidyapeetham;Focus%3A+VAPT+%7C+Network+Security+%7C+Cryptography;Break+it.+Understand+it.+Fix+it." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=B.Tech+CSE+-+Cyber+Security+at+Amrita+Vishwa+Vidyapeetham;Focus+-+VAPT+and+Network+Security+and+Cryptography;Break+it.+Understand+it.+Fix+it." alt="Typing animation" />
 
 <p>
   <a href="https://www.linkedin.com/in/jeevan17"><img src="https://img.shields.io/badge/LinkedIn-jeevan17-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
@@ -17,10 +17,6 @@
 
 ## About
 
-<table>
-<tr>
-<td width="60%">
-
 I am a Computer Science and Engineering student specialising in cybersecurity at **Amrita Vishwa Vidyapeetham, Chennai**. My work centres on understanding how systems fail and building practical controls that prevent it.
 
 **Focus areas:** Vulnerability Assessment and Penetration Testing (VAPT), network security, cryptography, and secure application development
@@ -30,15 +26,6 @@ I am a Computer Science and Engineering student specialising in cybersecurity at
 **Research:** Responsible disclosure of real vulnerabilities, including hardcoded keys and exposed tokens
 
 **Community:** Co-organiser of *Amrita Cyber Nation 2025*, a national online cybersecurity event
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jeevan1725&amp;theme=onedark&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=18&amp;margin-h=18" alt="Trophies" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -153,9 +140,5 @@ I welcome research collaborations, CTF team invitations, and technical discussio
 [![Gmail](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:jeevan17082005@gmail.com)
 
 Chennai, Tamil Nadu, India
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b132b,50:1c2541,100:0b132b&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%" alt="Footer" />
 
 </div>
