@@ -118,12 +118,12 @@ target    weakness    impact      clearly      door
 
 <div align="center">
 
-<img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Jeevan1725&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;count_private=true" />
+<img height="170" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Jeevan1725&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;count_private=true&amp;cache_seconds=86400" />
 <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan1725&amp;layout=compact&amp;theme=react&amp;hide_border=true" />
 
 <br/>
 
-<img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevan1725&amp;theme=react&amp;hide_border=true" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Jeevan1725&amp;theme=react&amp;hide_border=true" />
 
 </div>
 
